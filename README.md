@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me llamo Alexandra Ferrera y soy Desarrolladora Web en expansión. <br>Soy de Andalucía, España.</p>
+<p align="left">Me llamo Alexandra Ferrera y soy Desarrolladora Web en plena expansión. <br>Soy de Andalucía, España.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologías</h2>
 
 ###
 
@@ -34,6 +34,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+
+###
+<h2 align="left">Mis perfiles</h2>
 
 ###
 
