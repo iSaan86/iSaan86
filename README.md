@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobrwe mi</h2>
+<h2 align="left">Sobre mi</h2>
 
 ###
 
