@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me llamo Alexandra Ferrera y soy Desarrolladora Web en plena expansión. <br>Soy de Andalucía, España.</p>
+<p align="left">Me llamo Alexandra Ferrera y soy Desarrolladora Web Front en plena expansión. <br>Soy de Andalucía, España.</p>
 
 ###
 
