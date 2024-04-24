@@ -1,6 +1,7 @@
-<h1 align="left">Hola 👋 Qué tal?</h1>
+<h1 align="left">Hola 👋 Soy Alexandra Ferrera</h1>
 
 ###
+<img src="img.webp">
 
 <p align="left">Me llamo Alexandra Ferrera y soy Desarrolladora Web Front en plena expansión. <br>Soy de Andalucía, España.</p>
 
