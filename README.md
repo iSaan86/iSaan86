@@ -1,9 +1,11 @@
 <h1 align="left">Hola 👋 Soy Alexandra Ferrera</h1>
 
 ###
-<img src="img.webp">
+<img src="imgportada.webp">
 
-<p align="left">Me llamo Alexandra Ferrera y soy Desarrolladora Web Front en plena expansión. <br>Soy de Andalucía, España.</p>
+<h3 style="color: #f39792">DESARROLLADORA WEB FRONT END </h3>
+
+<p>En plena expansión.</p>
 
 ###
 
