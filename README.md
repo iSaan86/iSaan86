@@ -3,17 +3,17 @@
 ###
 <img src="imgportada.webp">
 
-<h3 style="color: #f39792">DESARROLLADORA WEB FRONT END </h3>
+<h3 style="color:#f39792">DESARROLLADORA WEB FRONT END </h3>
 
-<p>En plena expansión.</p>
-
-###
-
-<h2 align="left">Sobre mi</h2>
+<p>EN PLENA EXPANSION</p>
 
 ###
 
-<p align="left">🖥 Me encuentro en una nueva etapa profesional. Inmersa de lleno en el fascinante mundo del Desarrollo Web. Descubrirlo ha sido un verdadero motor para mi crecimiento y estoy emocionada por aprender cada día y poder crecer en este campo.<br><br>📑 Estoy terminando las prácticas del Certificado de Profesionalidad IFCD0110 de Creación y Publicación de Páginas Web, con el que he adquirido sólidos conocimientos en HTML, CSS y Javascript.<br><br>🤓 Asisto a WEBINARS y MASTERCLASES, participo activamente en comunidades del Desarrollo Web y sigo a fabulos@s creador@s de contenido. <br><br>📚 He decidido formarme en Angular y tengo planes de aprender React próximamente.<br><br>✨En marzo comienzo las prácticas del Certificado y estoy muy ilusionada con aprender el máximo que pueda en ellas. Espero que pronto tenga una oportunidad laboral para empezar a coger experiencia en el sector. Estoy emocionada por lo que el futuro me depara. Siento que me encantará esta profesión.<br><br>🍃 Antes de adentrarme en el desarrollo web, pasé los últimos 8 años trabajando en un centro de jardinería muy especial, como cajera y el último año como florista. Aprendí muchísimo sobre el sector, las personas y sobre mí misma. Fue una experiencia enriquecedora que me ayudó a alcanzar metas importantes en mi vida. Pero siempre supe que no era el tipo de trabajo ideal para mí, así que lo dejé y me enfoqué en desarrollar más, por fin, mi actividad artística y así, poder encontrar mi camino.<br><br>🎨 Siempre he compaginado la pintura artística con mis trabajos. Al respecto, creé mi propia web y mis cuentas en Redes Sociales como Alexandra Ferrera De Arte. Mi estilo sobre todo es realista y abarca desde retratos tradicionales en carboncillo, pastel, acuarela, lápices de colores, óleo, ... hasta pintura digital, mural, la ilustración y las artes plásticas.<br><br>👩 Me considero una persona muy abierta, empática, segura, resolutiva, comprometida y muy responsable.<br><br>🎞🖼🎮 Mis aficiones son la pintura, los videojuegos y las películas. Me encantan los animales, la naturaleza, el arte y la astronomía.<br><br>Así que, gracias por leerme. ¡Salu2!</p>
+<h2 color="#9ebaa3" align="left">Sobre mi</h2>
+
+###
+
+<p align="left">🖥 Me encuentro en una nueva etapa profesional. Inmersa de lleno en el fascinante mundo del Desarrollo Web. Descubrirlo ha sido un verdadero motor para mi crecimiento y estoy emocionada por aprender cada día y poder crecer en este campo.<br><br>📑 Acabo de conseguir superar un Certificado de Profesionalidad IFCD0110 de Creación y Publicación de Páginas Web, con el que he adquirido sólidos conocimientos en HTML, CSS y Javascript.<br><br>🤓 Asisto a WEBINARS y MASTERCLASES, participo activamente en comunidades del Desarrollo Web y sigo a fabulos@s creador@s de contenido. <br><br>📚 He decidido formarme en Angular y tengo planes de aprender React próximamente.<br><br>✨En marzo comienzo las prácticas del Certificado y estoy muy ilusionada con aprender el máximo que pueda en ellas. Espero que pronto tenga una oportunidad laboral para empezar a coger experiencia en el sector. Estoy emocionada por lo que el futuro me depara. Siento que me encantará esta profesión.<br><br>🍃 Antes de adentrarme en el desarrollo web, pasé los últimos 8 años trabajando en un centro de jardinería muy especial, como cajera y el último año como florista. Aprendí muchísimo sobre el sector, las personas y sobre mí misma. Fue una experiencia enriquecedora que me ayudó a alcanzar metas importantes en mi vida. Pero siempre supe que no era el tipo de trabajo ideal para mí, así que lo dejé y me enfoqué en desarrollar más, por fin, mi actividad artística y así, poder encontrar mi camino.<br><br>🎨 Siempre he compaginado la pintura artística con mis trabajos. Al respecto, creé mi propia web y mis cuentas en Redes Sociales como Alexandra Ferrera De Arte. Mi estilo sobre todo es realista y abarca desde retratos tradicionales en carboncillo, pastel, acuarela, lápices de colores, óleo, ... hasta pintura digital, mural, la ilustración y las artes plásticas.<br><br>👩 Me considero una persona muy abierta, empática, segura, resolutiva, comprometida y muy responsable.<br><br>🎞🖼🎮 Mis aficiones son la pintura, los videojuegos y las películas. Me encantan los animales, la naturaleza, el arte y la astronomía.<br><br>Así que, gracias por leerme. ¡Salu2!</p>
 
 ###
 
