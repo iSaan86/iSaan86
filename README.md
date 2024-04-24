@@ -58,6 +58,6 @@
 <h2 align="left">Contacto</h2>
 
 ###
-<a href=">sandraferreraarenas@gmail.com"><img src="gmail.png" height="40" alt="abrir gmail"/></a>
+<img src="gmail.png" height="40" alt="abrir gmail"/><p> sandraferreraarenas@gmail.com </p>
 
 ###
