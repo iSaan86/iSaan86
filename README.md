@@ -20,8 +20,51 @@
 
 ###
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/>
+      <br/>HTML
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25"/>
+      <br/>CSS
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="25" height="25"/>
+      <br/>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/0000FF/git.png" alt="Git" width="25" height="25" style="color: #0000FF;"/>
+      <br/>Git
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="25" height="25"/>
+      <br/>Angular
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25" height="25"/>
+      <br/>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="25" height="25"/>
+      <br/>Visual Studio Code
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="25" height="25"/>
+      <br/>Photoshop
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="25" height="25"/>
+      <br/>WordPress
+    </td>
+  </tr>
+</table>
 <div align="left">
-  ### Tecnologías que domino
 
 - <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/> HTML
 - <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25"/> CSS
