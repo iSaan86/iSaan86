@@ -26,7 +26,7 @@
 - <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/> HTML
 - <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25"/> CSS
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="25" height="25"/> JavaScript
-- <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Git" width="25" height="25"/> Git
+- <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" width="25" height="25"/> Git
 - <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="25" height="25"/> Angular
 - <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25" height="25"/> Python
 - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="25" height="25"/> Visual Studio Code
