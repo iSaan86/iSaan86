@@ -67,7 +67,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
     LinkedIn
   </a>
-  <br><span>&nbsp;&nbsp;</span>
+  <br><br>
   <a href="https://discord.com/users/818988764508061746" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" />
     Discord
