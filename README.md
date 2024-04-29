@@ -21,6 +21,12 @@
 ###
 
 <div align="left">
+  ### Tecnologías que domino
+
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="20" height="20"/> HTML
+- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="20" height="20"/> CSS
+- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20" height="20"/> JavaScript
+- <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Git" width="20" height="20"/> Git
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
