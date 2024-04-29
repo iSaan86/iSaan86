@@ -8,7 +8,7 @@
 
 ###
 
-<h2 color="#9ebaa3" align="center">Sobre mi</h2>
+<h2 color="#9ebaa3" align="left">Sobre mi</h2>
 
 ###
 
@@ -16,13 +16,13 @@
 
 ###
 
-<h2 align="center">Tecnologías</h2>
+<h2 align="left">Tecnologías</h2>
 
 ###
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="left" width="33%">
       <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="35" height="35"/><br/><b>HTML</b>
     </td>
     <td align="center" width="33%">
@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="center">Mis perfiles</h2>
+<h2 align="left">Mis perfiles</h2>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h2 align="center">Contacto</h2>
+<h2 align="left">Contacto</h2>
 
 ###
 
