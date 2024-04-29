@@ -23,27 +23,15 @@
 <div align="left">
   ### Tecnologías que domino
 
-- <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="20" height="20"/> HTML
-- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="20" height="20"/> CSS
-- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20" height="20"/> JavaScript
-- <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Git" width="20" height="20"/> Git
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  height="40" alt="angular logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/> HTML
+- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25"/> CSS
+- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="25" height="25"/> JavaScript
+- <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Git" width="25" height="25"/> Git
+- <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="25" height="25"/> Angular
+- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25" height="25"/> Python
+- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="25" height="25"/> Visual Studio Code
+- <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="25" height="25"/> Photoshop
+- <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="25" height="25"/> WordPress
 </div>
 
 ###
