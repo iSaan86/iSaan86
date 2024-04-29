@@ -20,50 +20,39 @@
 
 ###
 
-<table style="width: 100%;">
-  <tr>
-    <td align="center" style="width: 33.33%;">
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/>
-      <br/>HTML
-    </td>
-    <td align="center" style="width: 33.33%;">
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25"/>
-      <br/>CSS
-    </td>
-    <td align="center" style="width: 33.33%;">
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="25" height="25"/>
-      <br/>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width: 33.33%;">
-      <img src="https://img.icons8.com/ios-filled/50/0000FF/git.png" alt="Git" width="25" height="25" style="color: #0000FF;"/>
-      <br/>Git
-    </td>
-    <td align="center" style="width: 33.33%;">
-      <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="25" height="25"/>
-      <br/>Angular
-    </td>
-    <td align="center" style="width: 33.33%;">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25" height="25"/>
-      <br/>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width: 33.33%;">
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="25" height="25"/>
-      <br/>Visual Studio Code
-    </td>
-    <td align="center" style="width: 33.33%;">
-      <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="25" height="25"/>
-      <br/>Photoshop
-    </td>
-    <td align="center" style="width: 33.33%;">
-      <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="25" height="25"/>
-      <br/>WordPress
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-around;">
+  <div align="center">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/><br/>HTML
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25"/><br/>CSS
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="25" height="25"/><br/>JavaScript
+  </div>
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <div align="center">
+    <img src="https://img.icons8.com/ios-filled/50/0000FF/git.png" alt="Git" width="25" height="25" style="color: #0000FF;"/><br/>Git
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="25" height="25"/><br/>Angular
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25" height="25"/><br/>Python
+  </div>
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <div align="center">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="25" height="25"/><br/>Visual Studio Code
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="25" height="25"/><br/>Photoshop
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="25" height="25"/><br/>WordPress
+  </div>
+</div>
 <div align="left">
 
 - <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/> HTML
