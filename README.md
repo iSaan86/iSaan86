@@ -60,6 +60,8 @@
 
 <h2 align="left">Mis perfiles</h2>
 
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
@@ -72,24 +74,20 @@
   </a>
 </div>
 
+###
 
-<h2 align="left">Mis perfiles</h2>
+<h2 align="left">Contacto</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/818988764508061746" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" />
-  </a>
+  <p>
+    <img src="gmail.png" height="40" alt="abrir gmail"/>
+    <span>&nbsp;&nbsp;</span>
+    sandraferreraarenas@gmail.com
+  </p>
 </div>
 
-###
-<h2 align="left">Contacto</h2>
-
-###
 <p> <img src="gmail.png" height="40" alt="abrir gmail"/>   sandraferreraarenas@gmail.com </p>
 
 ###
