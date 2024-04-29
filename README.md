@@ -55,20 +55,24 @@
     </td>
   </tr>
 </table>
-<div align="left">
-
-- <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/> HTML
-- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25"/> CSS
-- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="25" height="25"/> JavaScript
-- <img src="https://img.icons8.com/ios-filled/50/0000FF/git.png" alt="Git" width="25" height="25" style="color: #0000FF;"/> Git
-- <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="25" height="25"/> Angular
-- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25" height="25"/> Python
-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="25" height="25"/> Visual Studio Code
-- <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="25" height="25"/> Photoshop
-- <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="25" height="25"/> WordPress
-</div>
 
 ###
+
+<h2 align="left">Mis perfiles</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+    LinkedIn
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://discord.com/users/818988764508061746" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" />
+    Discord
+  </a>
+</div>
+
+
 <h2 align="left">Mis perfiles</h2>
 
 ###
