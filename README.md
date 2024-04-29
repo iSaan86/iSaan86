@@ -8,7 +8,7 @@
 
 ###
 
-<h2 color="#9ebaa3" align="left">Sobre mi</h2>
+<h2 color="#9ebaa3" align="center">Sobre mi</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Tecnologías</h2>
+<h2 align="center">Tecnologías</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">Mis perfiles</h2>
+<h2 align="center">Mis perfiles</h2>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h2 align="left">Contacto</h2>
+<h2 align="center">Contacto</h2>
 
 ###
 
