@@ -8,7 +8,7 @@
 
 ###
 
-<h2 color="#9ebaa3" align="left">Sobre mi</h2>
+<h2 color="#9ebaa3" align="left">Sobre mí</h2>
 
 ###
 
