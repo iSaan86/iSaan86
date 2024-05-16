@@ -1,6 +1,6 @@
 <h1 align="left">Hola 👋 Soy Alexandra Ferrera</h1>
 <h3 style="color:#f39792">DESARROLLADORA WEB FRONT END </h3>
-<p>EN PLENA EXPANSION</p>
+<p>EN PLENA EXPANSION💥</p>
 
 ###
 
