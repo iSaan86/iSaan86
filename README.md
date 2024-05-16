@@ -22,7 +22,7 @@
 
 <table align="center">
   <tr>
-    <td align="left" width="33%">
+    <td align="center" width="33%">
       <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="35" height="35"/><br/><b>HTML</b>
     </td>
     <td align="center" width="33%">
@@ -65,6 +65,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+    <box-icon type='logo' height="40" name='linkedin-square'></box-icon>
     LinkedIn
   </a>
   <br><br>
