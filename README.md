@@ -89,7 +89,7 @@
   <p>
     <img src="gmail.png" height="40" alt="abrir gmail"/>
     <span>&nbsp;&nbsp;</span>
-    sandraferreraarenas@gmail.com
+    <a href="mailto:sandraferreraarenas@gmail.com">Enviar correo electrónico</a>
   </p>
 </div>
 
