@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://icons8.com/icon/HcQEdKCkXUs3/typescrip.png" alt=TypeScript" width="35" height="35"/><br/><b>TypeScript</b>
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt=TypeScript" width="35" height="35"/><br/><b>TypeScript</b>
     </td>
   </tr>
   
