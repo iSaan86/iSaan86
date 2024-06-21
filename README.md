@@ -1,4 +1,4 @@
-![image](https://github.com/iSaan86/iSaan86/assets/161147228/c514e9a6-e95d-4463-a75b-aefd9001a888)<h1 align="left">Hola 👋 Soy Alexandra Ferrera</h1>
+<h1 align="left">Hola 👋 Soy Alexandra Ferrera</h1>
 <h3 style="color:#f39792">DESARROLLADORA WEB FRONT END </h3>
 <p>EN PLENA EXPANSION💥</p>
 
