@@ -38,17 +38,19 @@
       <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="35" height="35"/><br/><b>JavaScript</b>
     </td>
   </tr>
+  
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/ios-filled/50/0000FF/git.png" alt="Git" width="35" height="35" style="color: #0000FF;"/><br/><b>Git</b>
-    </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="35" height="35"/><br/><b>Angular</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="35" height="35"/><br/><b>Python</b>
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt=TypeScript" width="35" height="35"/><br/><b>TypeScript</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/ios-filled/50/0000FF/git.png" alt="Git" width="35" height="35" style="color: #0000FF;"/><br/><b>Git</b>
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="35" height="35"/><br/><b>Visual Studio Code</b>
@@ -60,9 +62,10 @@
       <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="35" height="35"/><br/><b>WordPress</b>
     </td>
   </tr>
+  
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt=TypeScript" width="35" height="35"/><br/><b>TypeScript</b>
+     <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="35" height="35"/><br/><b>Python</b>
     </td>
   </tr>
   
