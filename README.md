@@ -14,9 +14,9 @@
 
 <p align="left">🖥 Me encuentro en una nueva etapa profesional. Inmersa de lleno en el fascinante mundo del Desarrollo Web. Descubrirlo ha sido un verdadero motor para mi crecimiento y estoy emocionada por aprender cada día y poder crecer en este campo.
   <br><br>📑 Acabo de conseguir superar un Certificado de Profesionalidad IFCD0110 de Creación y Publicación de Páginas Web, expedido por el Ministerio de Educación de España, con el que he adquirido sólidos conocimientos en HTML, CSS y Javascript.
-   <br><br>📚 He adquirido recientemente conociminetos básicos de Python, gracias a un certificado de IBM. Y estoy emocionada de haber empezado un curso de Angular. Además estoy cursando una beca de Google de Diseño de Experiencia de Usuario.
+   <br><br>📚 He adquirido recientemente conociminetos básicos de Python, gracias a un certificado de IBM. Y estoy emocionada de haber empezado un curso de Angular 17. Además estoy cursando un Certificado de Profesionalidad de Google de Diseño de Experiencia de Usuario.
   <br><br>🤓 Asisto a WEBINARS y MASTERCLASES, participo activamente en comunidades del Desarrollo Web y sigo a fabulos@s creador@s de contenido. 
-  <br><br>🎨 Siempre he compaginado la pintura artística con mis trabajos. Al respecto, creé mi propia web y mis cuentas en Redes Sociales como Alexandra Ferrera De Arte. Mi estilo sobre todo es realista y abarca desde retratos tradicionales en carboncillo, pastel, acuarela, lápices de colores, óleo, ... hasta pintura digital, mural, la ilustración y las artes plásticas.
+  <br><br>🎨  Esta pasión se une a mi creatividad como artista plástica. Al respecto, creé mi propia web y mis cuentas en Redes Sociales como 'Alexandra Ferrera De Arte'. Mi estilo sobre todo es realista y abarca desde retratos tradicionales en carboncillo, pastel, acuarela, lápices de colores, óleo, hasta la pintura digital, mural, la ilustración y las artes plásticas.
   <br><br>👩 Me considero una persona muy abierta, empática, segura, resolutiva, comprometida y muy responsable.
   <br><br>🎞🖼🎮 Mis aficiones son la pintura, los videojuegos y las películas. Me encantan los animales, la naturaleza, el arte y la astronomía.<br><br>Así que, gracias por leerme. ¡Salu2!</p>
 
