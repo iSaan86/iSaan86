@@ -90,6 +90,11 @@
     Discord
   </a>
   <br><br>
+  <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
+    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
+    Mi Portfolio
+  </a>
+  <br><br>
   <a href="https://alexandraferrera-dearte.com/" target="_blank">
     <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
     Mi web Alexandra Ferrera De Arte
