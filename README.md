@@ -5,7 +5,6 @@
 ###
 
 <img src="imgportada2.webp">
-<img src="imagen_importada.png">
 
 ###
 
