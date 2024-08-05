@@ -4,7 +4,7 @@
 
 ###
 
-<img src="imgportada2.webp">
+<img src="imgportada.png">
 
 ###
 
