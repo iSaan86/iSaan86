@@ -4,7 +4,7 @@
 
 ###
 
-<img src="imgportada.png">
+<img src="portada.jpg">
 
 ###
 
