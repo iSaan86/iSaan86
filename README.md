@@ -83,26 +83,50 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
-    LinkedIn
-  </a>
-  <br><br>
-  <a href="https://discord.com/users/818988764508061746" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" />
-    Discord
-  </a>
-  <br><br>
-  <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
-    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
-    Mi Portfolio
-  </a>
-  <br><br>
-  <a href="https://alexandraferrera-dearte.com/" target="_blank">
-    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
-    Mi web Alexandra Ferrera De Arte
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">LinkedIn</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://discord.com/users/818988764508061746" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" />
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.com/users/818988764508061746" target="_blank">Discord</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
+          <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
+        </a>
+      </td>
+      <td>
+        <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">Mi Portfolio</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://alexandraferrera-dearte.com/" target="_blank">
+          <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
+        </a>
+      </td>
+      <td>
+        <a href="https://alexandraferrera-dearte.com/" target="_blank">Mi web Alexandra Ferrera De Arte</a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ###
