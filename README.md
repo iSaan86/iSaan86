@@ -66,6 +66,9 @@
   
   <tr>
      <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="35" height="35"/><br/><b>Figma</b>
+    </td>
+    <td align="center" width="33%">
       <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="35" height="35"/><br/><b>Python</b>
     </td>
   </tr>
