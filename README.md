@@ -83,23 +83,23 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank" style="display: inline-flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" style="margin-right: 10px;" />
+  <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
     LinkedIn
   </a>
-  <br>
-  <a href="https://discord.com/users/818988764508061746" target="_blank" style="display: inline-flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" style="margin-right: 10px;" />
+  <br><br>
+  <a href="https://discord.com/users/818988764508061746" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" />
     Discord
   </a>
-  <br>
-  <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank" style="display: inline-flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" style="margin-right: 10px;" />
+  <br><br>
+  <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
+    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
     Mi Portfolio
   </a>
-  <br>
-  <a href="https://alexandraferrera-dearte.com/" target="_blank" style="display: inline-flex; align-items: center;">
-    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" style="margin-right: 10px;" />
+  <br><br>
+  <a href="https://alexandraferrera-dearte.com/" target="_blank">
+    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
     Mi web Alexandra Ferrera De Arte
   </a>
 </div>
