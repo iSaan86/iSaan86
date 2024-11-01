@@ -87,11 +87,11 @@
     <tr>
       <td>
         <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web/web-original.svg" height="40" alt="portfolio logo" />
+          <img width="40" height="40" src="https://img.icons8.com/offices/30/briefcase.png" alt="briefcase"/>
         </a>
       </td>
       <td>
-        <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">Mi Portfolio</a>
+        <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">Portfolio</a>
       </td>
     </tr>
     <tr>
@@ -111,7 +111,7 @@
         </a>
       </td>
       <td>
-        <a href="https://alexandraferrera-dearte.com/" target="_blank">Mi web Alexandra Ferrera De Arte</a>
+        <a href="https://alexandraferrera-dearte.com/" target="_blank">Alexandra Ferrera De Arte</a>
       </td>
     </tr>
     <tr>
