@@ -83,27 +83,23 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank" style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
-    LinkedIn
+    <span style="margin-left: 10px;">LinkedIn</span>
   </a>
-     <br><br>
-  <a href="https://discord.com/users/818988764508061746" target="_blank">
+  <a href="https://discord.com/users/818988764508061746" target="_blank" style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" />
-    Discord
+    <span style="margin-left: 10px;">Discord</span>
   </a>
-  <br><br>
-  <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
+  <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank" style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
-    Mi Portfolio
+    <span style="margin-left: 10px;">Mi Portfolio</span>
   </a>
-  <br><br>
-  <a href="https://alexandraferrera-dearte.com/" target="_blank">
+  <a href="https://alexandraferrera-dearte.com/" target="_blank" style="display: flex; align-items: center;">
     <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="www logo" />
-    Mi web Alexandra Ferrera De Arte
+    <span style="margin-left: 10px;">Mi web Alexandra Ferrera De Arte</span>
   </a>
 </div>
-
 ###
 
 <h2 align="left">Contacto</h2>
