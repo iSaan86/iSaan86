@@ -1,5 +1,5 @@
 <h1 align="left">Hola 👋 Soy Alexandra Ferrera</h1>
-<h3 style="color:#f39792">DESARROLLADORA WEB FRONT END </h3>
+<h3 style="color:#f39792">DESARROLLADORA WEB FRONTEND </h3>
 
 ###
 
