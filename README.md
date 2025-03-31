@@ -1,6 +1,5 @@
 <h1 align="left">Hola 👋 Soy Alexandra Ferrera</h1>
 <h3 style="color:#f39792">DESARROLLADORA WEB FRONT END </h3>
-<p>EN PLENA EXPANSION💥</p>
 
 ###
 
@@ -13,13 +12,14 @@
 
 ###
 
-<p align="left">🖥 Me encuentro en una nueva etapa profesional. Inmersa de lleno en el fascinante mundo del Desarrollo Web. Descubrirlo ha sido un verdadero motor para mi crecimiento y estoy emocionada por aprender cada día y poder crecer en este campo.
-  <br><br>📑 Acabo de conseguir superar un Certificado de Profesionalidad IFCD0110 de Creación y Publicación de Páginas Web, expedido por el Ministerio de Educación de España, con el que he adquirido sólidos conocimientos en HTML, CSS y Javascript.
-   <br><br>📚 He adquirido recientemente conociminetos básicos de Python, gracias a un certificado de IBM. Y estoy emocionada de haber empezado un curso de Angular 17. Además estoy cursando un Certificado de Profesionalidad de Google de Diseño de Experiencia de Usuario.
-  <br><br>🤓 Asisto a Webinars y Masterclases, participo activamente en comunidades del Desarrollo Web y sigo a fabulos@s creador@s de contenido. 
-  <br><br>🎨  Esta pasión se une a mi creatividad como artista plástica. Al respecto, creé mi propia web y mis cuentas en Redes Sociales como 'Alexandra Ferrera De Arte'. Mi estilo sobre todo es realista y abarca desde retratos tradicionales en carboncillo, pastel, acuarela, lápices de colores, óleo, hasta la pintura digital, mural, la ilustración y las artes plásticas.
-  <br><br>👩 Me considero una persona muy abierta, empática, segura, resolutiva, comprometida y muy responsable.
-  <br><br>🎞🖼🎮 Mis aficiones son la pintura, los videojuegos y las películas. Me encantan los animales, la naturaleza, el arte y la astronomía.<br><br>Así que, gracias por leerme. ¡Salu2!</p>
+<p align="left">🖥 Estoy en una nueva etapa profesional, completamente inmersa en el apasionante mundo del <b>Desarrollo Web</b>. Descubrirlo ha sido un motor de crecimiento y aprendizaje constante, y me emociona seguir evolucionando en este campo.
+  <br><br>📑 Me especializo en <b>Desarrollo Frontend</b> con <b>HTML, CSS y JavaScript</b>. Además, tengo una sólida base en <b>Diseño UI/UX</b>, abarcando desde la investigación de usuarios hasta la creación de prototipos interactivos en <b>Figma</b>. También manejo <b>Photoshop</b> para la optimización de imágenes.
+  <br><br>📚 He adquirido conocimientos en <b>Angular, React y Python</b>, y sigo ampliando mis habilidades día a día. Me encanta aprender, por lo que asisto a webinars, masterclasses y participo activamente en comunidades de Desarrollo Web.
+  <br><br>🎨 Mi pasión por el diseño se une a mi creatividad como <b>artista plástica</b>. He desarrollado mi propia web y gestiono mis redes sociales como <b>"Alexandra Ferrera De Arte"</b>, donde comparto mi arte en diversas técnicas, desde retratos tradicionales hasta pintura digital e ilustración.
+  <br><br>👩‍💻 Me considero una persona <b>comprometida, resolutiva y responsable</b>, con gran capacidad de adaptación y empatía.
+  <br><br>🎞 Mis aficiones incluyen la pintura, los <b>videojuegos, el cine, la astronomía y la naturaleza</b>. También amo a los animales.
+  <br><br>✨ ¡Gracias por visitar mi perfil! 🚀
+  </p>
 
 ###
 
