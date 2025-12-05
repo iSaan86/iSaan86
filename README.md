@@ -85,46 +85,21 @@
 
 ## Perfiles
 
-<div>
-<a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
-  <img width="30" height="30" src="https://img.icons8.com/offices/30/briefcase.png" alt="Portfolio" style="vertical-align: middle; margin-bottom: 10px"/> Portfolio
-</a> 
-<br>
-<a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
-  <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="vertical-align: middle; margin-bottom: 10px"/> LinkedIn
-</a> 
-<br>
-<a href="https://alexandraferrera-dearte.com/" target="_blank">
-  <img width="30" height="30" src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" alt="Arte" style="vertical-align: middle; margin-bottom: 10px"/> Alexandra Ferrera De Arte
-</a>
-<br>
-<a href="https://discord.com/users/818988764508061746" target="_blank">
-  <img width="30" height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Discord" style="vertical-align: middle; margin-bottom: 10px"/> Discord
-</a>
-<br>
-  <a href="mailto:sandraferreraarenas@gmail.com" target="_blank">
-  <img width="30" height="30" src="gmail.png" alt="Correo" style="vertical-align: middle; margin-bottom: 10px"/> Correo electrónico
-  </a>
-</div>
-
-### 🌐 Conecta conmigo
-
-### 🌐 Conecta conmigo
-
 - <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
-    <img src="https://img.icons8.com/offices/30/briefcase.png" width="30" height="30" /> Portfolio
+    <img src="https://img.icons8.com/offices/30/briefcase.png" width="18" height="18" /> Portfolio
   </a>
 - <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" /> LinkedIn
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="18" height="18" /> LinkedIn
   </a>
 - <a href="https://alexandraferrera-dearte.com/" target="_blank">
-    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" width="30" height="30" /> Alexandra Ferrera De Arte
+    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" width="18" height="18" /> Alexandra Ferrera De Arte
   </a>
 - <a href="https://discord.com/users/818988764508061746" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="30" /> Discord
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="18" height="18" /> Discord
   </a>
 - <a href="mailto:sandraferreraarenas@gmail.com" target="_blank">
-    <img src="gmail.png" width="30" height="30" /> Correo electrónico
+    <img src="gmail.png" width="18" height="18" /> Correo electrónico
   </a>
+
 
 
