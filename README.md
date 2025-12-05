@@ -5,11 +5,7 @@
 
 <img src="portada.jpg">
 
-###
-
-<h2 color="#9ebaa3" align="left">Sobre mí</h2>
-
-###
+## Sobre mí
 
 <p align="left">🖥 Estoy en una nueva etapa profesional, completamente inmersa en el apasionante mundo del <b>Desarrollo Web</b>. Descubrirlo ha sido un motor de crecimiento y aprendizaje constante, y me emociona seguir evolucionando en este campo.
   <br><br>📑 Me especializo en <b>Desarrollo Frontend</b> con <b>HTML, CSS y JavaScript</b>. Además, tengo una sólida base en <b>Diseño UI/UX</b>, abarcando desde la investigación de usuarios hasta la creación de prototipos interactivos en <b>Figma</b>. También manejo <b>Photoshop</b> para la optimización de imágenes.
@@ -20,11 +16,7 @@
   <br><br>✨ ¡Gracias por visitar mi perfil! 🚀
   </p>
 
-###
-
-<h2 align="left">Tecnologías</h2>
-
-###
+## Skills
 
 <table align="center">
   <tr>
@@ -92,12 +84,6 @@
 
 </table>
 
-###
-
-<h2 align="left">Mis perfiles</h2>
-
-
----
 
 ## Perfiles
 
