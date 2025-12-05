@@ -7,7 +7,6 @@
 
 ###
 
-
 <h2 color="#9ebaa3" align="left">Sobre mí</h2>
 
 ###
@@ -57,7 +56,7 @@
       <img src="https://img.icons8.com/ios-filled/50/0000FF/git.png" alt="Git" width="35" height="35" style="color: #0000FF;"/><br/><b>Git</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="35" height="35"/><br/><b>Visual Studio Code</b>
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="35" height="35"/><br/><b>VS Code</b>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="35" height="35"/><br/><b>Python</b>
@@ -89,7 +88,7 @@
     </td>
     
   </tr>
-  
+
 
 </table>
 
@@ -97,66 +96,29 @@
 
 <h2 align="left">Mis perfiles</h2>
 
-###
 
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
-          <img width="40" height="40" src="https://img.icons8.com/offices/30/briefcase.png" alt="briefcase"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">Portfolio</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">LinkedIn</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://alexandraferrera-dearte.com/" target="_blank">
-          <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" height="40" alt="art website logo" />
-        </a>
-      </td>
-      <td>
-        <a href="https://alexandraferrera-dearte.com/" target="_blank">Alexandra Ferrera De Arte</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://discord.com/users/818988764508061746" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" />
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.com/users/818988764508061746" target="_blank">Discord</a>
-      </td>
-    </tr>
-  </table>
+---
+
+## Perfiles
+
+<div>
+<a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
+  <img width="30" height="30" src="https://img.icons8.com/offices/30/briefcase.png" alt="Portfolio" style="vertical-align: middle; margin-bottom: 10px"/> Portfolio
+</a> 
+<br>
+<a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
+  <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="vertical-align: middle; margin-bottom: 10px"/> LinkedIn
+</a> 
+<br>
+<a href="https://alexandraferrera-dearte.com/" target="_blank">
+  <img width="30" height="30" src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" alt="Arte" style="vertical-align: middle; margin-bottom: 10px"/> Alexandra Ferrera De Arte
+</a>
+<br>
+<a href="https://discord.com/users/818988764508061746" target="_blank">
+  <img width="30" height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Discord" style="vertical-align: middle; margin-bottom: 10px"/> Discord
+</a>
+<br>
+  <a href="mailto:sandraferreraarenas@gmail.com" target="_blank">
+  <img width="30" height="30" src="gmail.png" alt="Correo" style="vertical-align: middle; margin-bottom: 10px"/> Correo electrónico
+  </a>
 </div>
-
-
-###
-
-<h2 align="left">Contacto</h2>
-
-###
-
-<div align="left">
-  <p>
-    <img src="gmail.png" height="40" alt="abrir gmail"/>
-    <span>&nbsp;&nbsp;</span>
-    <a href="mailto:sandraferreraarenas@gmail.com">Enviar correo electrónico</a>
-  </p>
-</div>
-
-###
