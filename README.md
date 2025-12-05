@@ -109,9 +109,22 @@
 
 ### 🌐 Conecta conmigo
 
-- [![Portfolio](https://img.icons8.com/offices/30/briefcase.png)](https://alexandra-ferrera-portfolio.netlify.app) Portfolio
-- [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/alexandra-ferrera-arenas/) LinkedIn
-- [![Arte](https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e)](https://alexandraferrera-dearte.com/) Alexandra Ferrera De Arte
-- [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.com/users/818988764508061746) Discord
-- [![Correo](gmail.png)](mailto:sandraferreraarenas@gmail.com) Correo electrónico
+### 🌐 Conecta conmigo
+
+- <a href="https://alexandra-ferrera-portfolio.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/offices/30/briefcase.png" width="30" height="30" /> Portfolio
+  </a>
+- <a href="https://www.linkedin.com/in/alexandra-ferrera-arenas/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" /> LinkedIn
+  </a>
+- <a href="https://alexandraferrera-dearte.com/" target="_blank">
+    <img src="https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e" width="30" height="30" /> Alexandra Ferrera De Arte
+  </a>
+- <a href="https://discord.com/users/818988764508061746" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="30" /> Discord
+  </a>
+- <a href="mailto:sandraferreraarenas@gmail.com" target="_blank">
+    <img src="gmail.png" width="30" height="30" /> Correo electrónico
+  </a>
+
 
