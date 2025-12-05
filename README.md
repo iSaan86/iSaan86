@@ -45,32 +45,49 @@
       <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="35" height="35"/><br/><b>Angular</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt=TypeScript" width="35" height="35"/><br/><b>TypeScript</b>
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" width="35" height="35"/><br/><b>React</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/ios-filled/50/0000FF/git.png" alt="Git" width="35" height="35" style="color: #0000FF;"/><br/><b>Git</b>
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="35" height="35"/><br/><b>TypeScript</b>
     </td>
   </tr>
   
   <tr>
+  <td align="center" width="33%">
+      <img src="https://img.icons8.com/ios-filled/50/0000FF/git.png" alt="Git" width="35" height="35" style="color: #0000FF;"/><br/><b>Git</b>
+    </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="35" height="35"/><br/><b>Visual Studio Code</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="35" height="35"/><br/><b>Photoshop</b>
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="35" height="35"/><br/><b>Python</b>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="35" height="35"/><br/><b>WordPress</b>
-    </td>
+    
   </tr>
   
   <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="35" height="35"/><br/><b>WordPress</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-color-tal-revivo.png" alt="Elementor" width="35" height="35"/><br/><b>Elementor</b>
+    </td>
+     <td align="center" width="33%">
+      <img src="https://automatorplugin.com/wp-content/uploads/2021/09/divi-icon.svg" alt="Divi" width="35" height="35"/><br/><b>Divi</b>
+    </td>
+    
+  </tr>
+    <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="35" height="35"/><br/><b>Photoshop</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="Illustrator" width="35" height="35"/><br/><b>Illustrator</b>
+    </td>
      <td align="center" width="33%">
       <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="35" height="35"/><br/><b>Figma</b>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="35" height="35"/><br/><b>Python</b>
-    </td>
+    
   </tr>
   
 
