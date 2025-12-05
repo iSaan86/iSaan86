@@ -80,8 +80,6 @@
     </td>
     
   </tr>
-
-
 </table>
 
 
@@ -108,3 +106,12 @@
   <img width="30" height="30" src="gmail.png" alt="Correo" style="vertical-align: middle; margin-bottom: 10px"/> Correo electrónico
   </a>
 </div>
+
+### 🌐 Conecta conmigo
+
+- [![Portfolio](https://img.icons8.com/offices/30/briefcase.png)](https://alexandra-ferrera-portfolio.netlify.app) Portfolio
+- [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/alexandra-ferrera-arenas/) LinkedIn
+- [![Arte](https://github.com/iSaan86/iSaan86/assets/161147228/d3c6624f-bfbf-4bfd-9899-6f0896d5c54e)](https://alexandraferrera-dearte.com/) Alexandra Ferrera De Arte
+- [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.com/users/818988764508061746) Discord
+- [![Correo](gmail.png)](mailto:sandraferreraarenas@gmail.com) Correo electrónico
+
